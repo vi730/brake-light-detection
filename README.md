@@ -16,7 +16,7 @@ Developed during internship at **Institute for Information Industry (III)**, Tai
 ## Demo
 
 ### Real-world Inference
-Real-time detection on road footage showing the model distinguishing between **Braking** (Red Box) and **Normal** (no specific highlight or Normal label) states.
+Real-time detection on road footage showing the model distinguishing between **Braking** and **Normal** states.
 
 ![Real-world Inference](https://github.com/HunterWang123456/yolov7_for_braking/assets/74261517/4fc41c1b-00a4-40d2-963e-f6d14ad4ed46)
 
