@@ -178,4 +178,3 @@ GPL-3.0 - see [LICENSE](LICENSE)
 ---
 
 **Developed at Institute for Information Industry (III), Taiwan, 2023**
-```
