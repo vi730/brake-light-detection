@@ -97,7 +97,7 @@ cd yolov7
 python ../create_dataset.py
 ```
 
-**Configuration:** Edit `IMGS_PER_CLASS` in `create_dataset.py` (default: 500, recommended: 2000+ for training)
+**Configuration:** Edit `IMGS_PER_CLASS` in `create_dataset.py` (default: 500)
 
 This creates composite images by merging vehicle crops onto road scenes, generating YOLO format labels and splitting into train/valid/test (80/10/10).
 
