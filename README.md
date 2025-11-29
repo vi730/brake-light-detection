@@ -1,8 +1,3 @@
-沒問題，這是修改好的**完整版 README.md**。
-
-我已經將原本失效的網路連結全部換成了你提供的相對路徑（`demo/`），並在專案結構中補上了 `demo` 資料夾。你可以直接複製貼上：
-
-```markdown
 ***
 
 # Brake Light Detection using YOLOv7
